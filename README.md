@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and similar Data Analytics languages
-- 📫 How to reach me email carlospug95@gmail.com
+- 📫 How to reach me via LinkedIn at (https://www.linkedin.com/in/caguirrebeitia/)
 
 <!---
 caguigo/caguigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
