@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caguigo
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, presenting data to clients, and provide technical / commercial assistance
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and similar Data Analytics languages
 - 📫 How to reach me via LinkedIn at (https://www.linkedin.com/in/caguirrebeitia/)
